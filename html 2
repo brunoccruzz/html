@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en"> 
+  <head>
+    <!---Esta é a seção head do doc HTML -->
+    <!---Tag de diretiva -->
+    <title> Exemplo do professor </title>
+  </head>
+    <body>
+    <!---Esta é a seção body do doc HTML -->
+    <h1>First Title</h1>
+    <h2>Second Title</h2>
+    <h3>Third Title</h3>
+    <p>This is a paragraph </p>
+    <hr/>
+    <p>
+      Novo paragrafo <br> quebra de linha
+    </p>
+    <p>Table: </p>
+    <table border="2">
+      <thead>
+        <tr>
+          <th>Customer ID</th>
+          <th> Name</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>1000</td>
+          <td>Joseph Winston</td>
+        </tr>
+        <tr>
+          <td>1001</td>
+          <td>Anna Clark</td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>
